@@ -9,7 +9,7 @@
 
 -  👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://computacao.pucpcaldas.br/)
 -  💻 **Data Engineer** at [4Data Driven](https://www.4datadriven.com.br)
-      - 🔎 *More info* [Linkedin](https://www.linkedin.com/in/developerleoit/)
+      - 🔎 *More info* [Linkedin](https://www.linkedin.com/in/leohdmoraes/)
 -  🎥 **Movies Fan**
 -  ⚽ **Sports Fan**
 
@@ -35,7 +35,7 @@
 <br>
 
 ## PORTFOLIO - Data Engineer
-[Soon](https://github.com/developerleomoraes)
+[Soon](https://github.com/leohdmoraes)
 
 <br>
 
