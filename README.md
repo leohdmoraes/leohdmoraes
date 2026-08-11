@@ -30,31 +30,36 @@
 **Data engineering**
 
 <div>
-  <img title="Apache Airflow" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" />
-  <img title="Apache Spark" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" />
-  <img title="Google Cloud" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
-  <img title="Azure" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+  <img title="Apache Airflow" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" />
+  <img title="Apache Spark" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" />
+  <img title="Google Cloud" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
+  <img title="Azure" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
 </div>
 
-**Languages & databases**
+**Languages**
 
 <div>
-  <img title="Python" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img title="TypeScript" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img title="MySQL" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img title="PostgreSQL" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img title="Python" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img title="TypeScript" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+</div>
+
+**Databases**
+
+<div>
+  <img title="MySQL" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img title="PostgreSQL" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 </div>
 
 **Tools**
 
 <div>
-  <img title="Docker" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img title="Git" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img title="GitHub Actions" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />
-  <img title="Node.js" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img title="Linux" height="48" width="48" style="border-radius:12px;margin:4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img title="Docker" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img title="Git" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img title="GitHub Actions" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />
+  <img title="Node.js" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img title="Linux" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
 
 <br>
