@@ -7,6 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leohdmoraes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leohdmoraes27@gmail.com)
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+BUILDING_DATA_PIPELINES...;ETL+%7C+ELT+%7C+AIRFLOW+%7C+SPARK;GCP+%2B+AZURE+%2B+DATABRICKS;STATUS%3A+ONLINE_)](https://git.io/typing-svg)
+
 </div>
 
 <br>
@@ -14,7 +18,8 @@
 ## About me
 
 - 💻 **Data Engineer** at [4Data Driven](https://www.4datadriven.com.br) *(since Apr 2024)* — building and maintaining data pipelines with Airflow, dbt, Spark and Databricks across GCP and Azure.
-- 🎓 **Computer Science** @ [PUC Minas](https://computacao.pucpcaldas.br/), Brazil *(2021 – 2026)*, and a **double degree in Computer Engineering** @ Politécnico da Guarda, Portugal.
+- 🎓 **Computer Science** @ [PUC Minas](https://computacao.pucpcaldas.br/), Brazil *(2021 – 2026)*.
+- 🇵🇹 **Double degree in Computer Engineering** @ Politécnico da Guarda, Portugal *(2025 – 2026)*.
 - 🔧 Previously: Back-end Developer @ Cenergel Sistemas Energéticos, and Laboratory Technician @ PUC Minas.
 - 🎥 Movies fan · ⚽ Sports fan
 
@@ -62,6 +67,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leohdmoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohdmoraes&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leohdmoraes/leohdmoraes/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leohdmoraes/leohdmoraes/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/leohdmoraes/leohdmoraes/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br>
 
