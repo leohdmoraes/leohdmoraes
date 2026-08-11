@@ -27,39 +27,17 @@
 
 ## Tech stack
 
-**Data engineering**
+<div align="center">
 
-<div>
-  <img title="Apache Airflow" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" />
-  <img title="Apache Spark" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" />
-  <img title="Google Cloud" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
-  <img title="Azure" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-</div>
+<img src="https://skillicons.dev/icons?i=py,ts,nodejs,mysql,postgres,gcp,azure,docker,git,githubactions,linux&theme=light&perline=11" height="42" alt="Languages, databases, cloud & tools" />
 
-**Languages**
+<br><br>
 
-<div>
-  <img title="Python" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img title="TypeScript" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-</div>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" height="24" />
 
-**Databases**
-
-<div>
-  <img title="MySQL" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img title="PostgreSQL" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-</div>
-
-**Tools**
-
-<div>
-  <img title="Docker" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img title="Git" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img title="GitHub Actions" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />
-  <img title="Node.js" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img title="Linux" height="36" width="36" style="border-radius:10px;margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
 
 <br>
