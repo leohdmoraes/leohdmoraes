@@ -18,8 +18,8 @@
 ## About me
 
 - 💻 **Data Engineer** at [4Data Driven](https://www.4datadriven.com.br) *(since Apr 2024)* — building and maintaining data pipelines with Airflow, dbt, Spark and Databricks across GCP and Azure.
-- 🎓 **Computer Science** @ [PUC Minas](https://computacao.pucpcaldas.br/), Brazil *(2021 – 2026)*.
-- 🇵🇹 **Double degree in Computer Engineering** @ Politécnico da Guarda, Portugal *(2025 – 2026)*.
+- 🎓🇧🇷 **Computer Science** @ [PUC Minas](https://computacao.pucpcaldas.br/), Brazil *(2021 – 2026)*.
+- 🎓🇵🇹 **Double degree in Computer Engineering** @ Politécnico da Guarda, Portugal *(2025 – 2026)*.
 - 🔧 Previously: Back-end Developer @ Cenergel Sistemas Energéticos, and Laboratory Technician @ PUC Minas.
 - 🎥 Movies fan · ⚽ Sports fan
 
