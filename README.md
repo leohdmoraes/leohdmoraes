@@ -1,99 +1,107 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0D4074?=flat-circle&labelColor=black&logo=linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/developerleomoraes/)](https://www.linkedin.com/in/developerleoit/)
-[![Email Badge](https://img.shields.io/badge/E-mail-mail?link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F2%2F%23inbox)](https://mail.google.com/mail/u/2/#inbox?compose=DmwnWtDtZdmVKMxwMWvwdVhVDDZxNggdNqjswpfJgSNbqcGGHWgwrkzlSVfDXQvxksHfLpclZFBB)
+<div align="center">
 
+# Hi, I'm Leo Moraes 👋
 
+**Data Engineer** @ [4Data Driven](https://www.4datadriven.com.br) — Python · SQL · GCP · Azure · Airflow · Spark · Databricks
 
-## Hey, l´m Leo Moraes, Data Engineer! Welcome to my profile! 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leohdmoraes/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leohdmoraes27@gmail.com)
 
-<img align="right" alt="Leo-pic" height="80" width="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/952690717468262510/952690990475530331/icon_leo_gif.gif">
-
--  👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://computacao.pucpcaldas.br/)
--  💻 **Data Engineer** at [4Data Driven](https://www.4datadriven.com.br)
-      - 🔎 *More info* [Linkedin](https://www.linkedin.com/in/leohdmoraes/)
--  🎥 **Movies Fan**
--  ⚽ **Sports Fan**
-
-<br>
-
-
-## Technologies 💻
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Leo-Python" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Leo-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="Leo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="Leo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Leo-NodeJs" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Leo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img align="center" alt="Leo-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Leo-Javascript" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
 </div>
 
 <br>
 
-## PORTFOLIO - Data Engineer
-[Soon](https://github.com/leohdmoraes)
+## About me
+
+- 💻 **Data Engineer** at [4Data Driven](https://www.4datadriven.com.br) *(since Apr 2024)* — building and maintaining data pipelines with Airflow, dbt, Spark and Databricks across GCP and Azure.
+- 🎓 **Computer Science** @ [PUC Minas](https://computacao.pucpcaldas.br/), Brazil *(2021 – 2026)*, and a **double degree in Computer Engineering** @ Politécnico da Guarda, Portugal.
+- 🔧 Previously: Back-end Developer @ Cenergel Sistemas Energéticos, and Laboratory Technician @ PUC Minas.
+- 🎥 Movies fan · ⚽ Sports fan
 
 <br>
 
+## Tech stack
+
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+<br>
+
+## Certifications
+
+- Python 3 - World 1, 2 & 3
+- Banco de Dados SQL
+
+<br>
+
+## Languages
+
+- 🇧🇷 Portuguese (Native)
+- 🇬🇧 English (Full Professional)
+
+<br>
+
+## GitHub stats
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leohdmoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohdmoraes&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<br>
 
 ## Projects
 
-<div>
-  <a href="https://github.com/developerleomoraes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=developerleomoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerleomoraes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<br>
-
 <details>
-<summary>
- <strong>College</strong>
-</summary>
+<summary><strong>Data / Python</strong></summary>
 
-  - C Language:
-    - [Operational System | Pipes - Thread](https://github.com/developerleomoraes/college_algorithms_project)
-    - [Compiler](https://github.com/developerleomoraes/college_compiler)
-    - [Soon](https://github.com/developerleomoraes)
-  - Python:
-    - [Data Science](https://github.com/developerleomoraes/College_Data-_Science)
-    - [Soon](https://github.com/developerleomoraes)
-  - SQL:
-    - [Database Project](https://github.com/developerleomoraes/database_project_sql)
-  - Java:
-    - [Mobile Projects](https://github.com/developerleomoraes/mobile_college_projects)
+- [DYE_Predictor](https://github.com/leohdmoraes/DYE_Predictor) — neural networks final project (Redes Neurais, IPG)
+- [vaaz_visao](https://github.com/leohdmoraes/vaaz_visao)
+- [NLW_16_python](https://github.com/leohdmoraes/NLW_16_python)
+- [Webscraping](https://github.com/leohdmoraes/webscraping_furnas)
+- [Python Server](https://github.com/leohdmoraes/Python_Server)
+- [Learning Python](https://github.com/leohdmoraes/learning_python)
 
-    </details>
-
-
-
-<details>
-<summary>
-<strong>Learning and personal projects</strong>
-</summary>
-
-- Back-End Projects:
-  - [Webscraping](https://github.com/developerleomoraes/webscraping_furnas)
-  - [Server](https://github.com/developerleomoraes/Python_Server)
-- Node.js | Typescript:
-  - [Soon](https://github.com/developerleomoraes)
-- Web Projects:
-  - HTML5 | CSS3 | Javascript
-    - [Soon](https://github.com/developerleomoraes)
-- Python:
-  - [Studyies](https://github.com/developerleomoraes/learning_python)
 </details>
- 
-<br>
 
+<details>
+<summary><strong>Web</strong></summary>
+
+- [Web Agency (Bootstrap)](https://github.com/leohdmoraes/web_agency_bootstrap)
+- [Web Design Agency](https://github.com/leohdmoraes/web_design_agency)
+- [.NET Project (IPG - Internet Programming)](https://github.com/leohdmoraes/.NET_Project_IPG_internet_programming)
+- [API Node.js | TypeScript](https://github.com/leohdmoraes/API_node_ts)
+
+</details>
+
+<details>
+<summary><strong>College</strong></summary>
+
+- C: [Operating Systems | Pipes & Threads](https://github.com/leohdmoraes/college_algorithms_project), [Compiler](https://github.com/leohdmoraes/college_compiler)
+- SQL: [Database Project](https://github.com/leohdmoraes/database_project_sql)
+
+</details>
+
+<br>
 
 ## Contact
-  
-<div> 
-  <a href = "mailto:devraccoonleo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/developerleoit/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div>
+  <a href="mailto:leohdmoraes27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leohdmoraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
