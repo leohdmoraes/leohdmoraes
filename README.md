@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Leo Moraes 👋
+# Hi, I'm Leo Moraes
 
 **Data Engineer** @ [4Data Driven](https://www.4datadriven.com.br) — Python · SQL · GCP · Azure · Airflow · Spark · Databricks
 
